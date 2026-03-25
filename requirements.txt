@@ -1,4 +1,4 @@
-tensorflow
-pandas
-numpy
 streamlit
+tensorflow-cpu==2.15.0
+numpy
+pandas
